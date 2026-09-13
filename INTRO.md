@@ -1,7 +1,7 @@
 # introduction
 
-**name    :** Asmau sanusi
-**Department: ** computer science
+**name:** Asmau sanusi
+**Department:** computer science
 
 **skill:**
 **backend developer
@@ -10,4 +10,3 @@
 **python 
 **django
 **postgresql
-
