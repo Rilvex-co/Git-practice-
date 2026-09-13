@@ -1,14 +1,13 @@
 # introduction
 
-- **name    :** Asmau sanusi
-- **Department: ** computer science
+**name    :** Asmau sanusi
+**Department: ** computer science
 
-- **skill:**
-- **backend developer
+**skill:**
+**backend developer
 
-- **tools:**
-- **python 
-- **django
-- **postgresql
+**tools:**
+**python 
+**django
+**postgresql
 
-**
