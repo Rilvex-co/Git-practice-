@@ -9,4 +9,5 @@ backend developer
 tools:
 python 
 django
-postgresql;
+postgresql
+#end
